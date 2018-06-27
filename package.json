@@ -1,0 +1,22 @@
+{
+  "name": "testpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyotaroOzaki/testpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyotaroOzaki/testpage/issues"
+  },
+  "homepage": "https://github.com/RyotaroOzaki/testpage#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
